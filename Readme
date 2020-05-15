@@ -1,0 +1,22 @@
+Erik Nurja 823233990
+5/14/2020
+
+This program is the implimentation store
+the customer is regiterred.
+the items are out into the cart.
+then the customer is sent to the queue where it the bill is made
+and this goes on till the queue is empty.
+
+//*** Files ***\\
+Customer.java -> stores the informarion about customer
+Person.java -> stores the informarion about the person an Abstract class
+Process -> interface and used to sync the process
+Item -> contains the information about item
+Store -> the class that is responsible for all the working;
+
+//****BinarySearch****\\
+Store contains the function of binary search the searches the item on their id;
+//****Irative Function****\\
+The item are print using iterator.
+//****Sort****\\
+items are sorted using bubble sort
